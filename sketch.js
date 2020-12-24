@@ -32,7 +32,7 @@ function setup() {
   rope4 = new Rope(bobObject4.body,roof.body);
   rope5 = new Rope(bobObject5.body,roof.body);
 
- Engine.run(engine);
+// Engine.run(engine);
 }
 
 
